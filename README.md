@@ -49,7 +49,7 @@ A full-stack web application that allows users to browse stores and submit ratin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/store-rating-system.git
+git clone https://github.com/Avengesanket/store-rating-system.git
 cd store-rating-system
 ```
 ### 2. Backend Setup
