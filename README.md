@@ -102,3 +102,11 @@ After running the backend for the first time, use these credentials to log in as
 - User Flow: Sign up as a Normal User -> Login -> Rate the new store.
 - Owner Flow: Log in as the Store Owner -> View the new rating on the dashboard.
 
+<img width="905" height="425" alt="image" src="https://github.com/user-attachments/assets/7d45e9da-ec89-4773-8c46-3ae8595462fc" />
+
+<img width="913" height="422" alt="image" src="https://github.com/user-attachments/assets/e7fd709e-25a0-4da3-b415-1eb4bcdb69c0" />
+
+<img width="910" height="424" alt="image" src="https://github.com/user-attachments/assets/16969483-cd3e-4f12-ad2e-328213d224a2" />
+
+<img width="910" height="424" alt="image" src="https://github.com/user-attachments/assets/793ad8e5-e08d-430d-a857-a7c2007dd8d8" />
+
